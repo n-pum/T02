@@ -17,7 +17,6 @@ namespace T02
             Console.WriteLine(suma);
 
             // INTRODUCIR NÚMERO
-            Console.Write("Esto es una prueba");
             Console.Write("Introduce un número: ");
             string valor1 = Console.ReadLine();
             Console.WriteLine("El número introducido es: " + valor1);
